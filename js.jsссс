@@ -1,9 +1,0 @@
-/* Это объявление переменной, мы наши кнопку по тегу */
-const button = document.querySelector('button');
-<a href="https://stylecss.ru/"><img src="for.jpeg" alt=""></a>;
-
-/* Тут на кнопку навешиваем обрабочик, который ждёт клика и тогда запустит логику */
-button.addEventListener('click', function() {
-	alert('преобразуй трудности в возможности')
-
-})
